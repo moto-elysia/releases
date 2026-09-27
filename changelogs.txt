@@ -1,0 +1,32 @@
+This is Android 17 QPR0 with September 2026 security patches
+
+Device changes:
+Date: 27-09-2026
+==============================
+- Switch to Kawase2 RenderEngine blur algorithm
+- Add debug IMS properties to work around CarrierConfig restrictions
+- Set device market name and mod_device
+- Silence AVC denials and logcat spams
+- Lock lockscreen to 120Hz
+- Add FM radio blobs
+- Enable Smooth Display setting
+- Improve Haptics effects
+- Updated Overlays from stock
+- Switch to Vulkan UI renderer
+- Enable QSPA Framework
+- Enable haptic text cursor
+- Enable vibration on icon animation
+- Enable pulse doze on pickup
+- Use Snapdragon color libraries configuration from source
+- Switch vendor and vendor_dlkm to EROFS
+- Cleaned up init scripts
+- Declare eUICC device capabilities
+- Disable high-performance transitions
+- Add DeviceAsWebcam support
+- Drop debug.sf.latch_unsignaled
+- Improve Zram configuration
+- Configure media profile variant
+- Adjust partition reserved space
+- Improved Auto-brightness
+- Add Viper4FxAndroid
+- Customize sensors service
