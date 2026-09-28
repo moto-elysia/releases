@@ -1,6 +1,14 @@
 This is Android 17 QPR0 with September 2026 security patches
 
 Device changes:
+Date: 29-09-2026
+==============================
+- Label some missing vintf entries
+- Added Torch control
+- Allow surfaceflinger to use the big cluster
+- Apply dex2oat optimizations
+- mumba: Enable R8 optimizations for system_server and SystemUI
+
 Date: 27-09-2026
 ==============================
 - Switch to Kawase2 RenderEngine blur algorithm
